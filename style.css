@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+    background-color: rgba(110, 156, 203, 0.29);
+    font-family: sans-serif;
+}
+.main{
+    margin-left: 400px;
+    width: 350px;
+}
+.outer{
+    border: 2px solid rgb(14, 1, 63);
+    background-color: rgb(12, 1, 63);
+    border-radius: 20px;
+    padding: 30px;
+    height: auto;
+    width: 350px;
+    }
+h2{
+    text-align: center;
+}
+label{
+    color: rgb(113, 247, 247);
+}
+.inputdata{
+    height: auto;
+    width: 250px;
+}
+input:hover{
+    background-color: yellow;
+}
+
+button{
+    height: auto;
+    width: 255px; 
+    border-radius: 25px; 
+    color: rgb(89, 3, 247);
+}
+button:hover{
+    background-color: yellow;
+}
+
+span{
+    color: white;
+}
+.forgot{
+    text-align: right;
+   
+}
+a{
+    color: aquamarine;
+    text-decoration: none;
+}
+a:hover{
+    color: yellow;
+}
